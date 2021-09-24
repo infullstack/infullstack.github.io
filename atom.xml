@@ -6,7 +6,7 @@
   <link href="http://pmthought.com/atom.xml" rel="self"/>
   
   <link href="http://pmthought.com/"/>
-  <updated>2021-09-24T09:13:01.446Z</updated>
+  <updated>2021-09-24T09:41:32.680Z</updated>
   <id>http://pmthought.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://pmthought.com/snowflake-object-tagging.html"/>
     <id>http://pmthought.com/snowflake-object-tagging.html</id>
     <published>2021-09-24T10:01:36.000Z</published>
-    <updated>2021-09-24T09:13:01.446Z</updated>
+    <updated>2021-09-24T09:41:32.680Z</updated>
     
     
     <summary type="html">&lt;p&gt;今年 8 月份，Snowflake对外发布了对象标签功能的预览版，此功能通过应用业务上下文，例如将数据对象标识为敏感、PII 或属于成本中心的标签，使企业可以更轻松地了解和控制其数据。对象标记通过添加现有治理功能（例如 Snowflake 的&lt;a href=&quot;https://docs.snowflake.com/en/user-guide/security-column-ddm.html&quot;&gt;动态数据屏蔽&lt;/a&gt;和&lt;a href=&quot;https://www.snowflake.com/blog/row-access-policies-are-now-generally-available-on-snowflake/&quot;&gt;行访问策略）&lt;/a&gt;来扩展 Snowflake 的本机数据治理功能。&lt;/p&gt;</summary>
@@ -36,6 +36,34 @@
     <category term="标签" scheme="http://pmthought.com/tags/%E6%A0%87%E7%AD%BE/"/>
     
     <category term="数据资产管理" scheme="http://pmthought.com/tags/%E6%95%B0%E6%8D%AE%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>产品书籍摘要</title>
+    <link href="http://pmthought.com/pm-book-summary.html"/>
+    <id>http://pmthought.com/pm-book-summary.html</id>
+    <published>2021-09-18T12:27:10.000Z</published>
+    <updated>2021-09-24T09:49:22.691Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;###《产品之旅 - 产品经理的方法论和实战进阶》&lt;/p&gt;
+&lt;p&gt;需求分析的 “ 3+1</summary>
+        
+      
+    
+    
+    
+    <category term="产品经理" scheme="http://pmthought.com/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+    
+    <category term="产品经理" scheme="http://pmthought.com/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+    <category term="摘要" scheme="http://pmthought.com/tags/%E6%91%98%E8%A6%81/"/>
     
   </entry>
   
