@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>产品随想</title>
+  <icon>http://pmthought.com/icon.png</icon>
+  <subtitle>产品随想</subtitle>
+  <link href="http://pmthought.com/atom.xml" rel="self"/>
+  
+  <link href="http://pmthought.com/"/>
+  <updated>2021-09-24T09:13:01.446Z</updated>
+  <id>http://pmthought.com/</id>
+  
+  <author>
+    <name>Benjamin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Snowflake的标签功能</title>
+    <link href="http://pmthought.com/snowflake-object-tagging.html"/>
+    <id>http://pmthought.com/snowflake-object-tagging.html</id>
+    <published>2021-09-24T10:01:36.000Z</published>
+    <updated>2021-09-24T09:13:01.446Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今年 8 月份，Snowflake对外发布了对象标签功能的预览版，此功能通过应用业务上下文，例如将数据对象标识为敏感、PII 或属于成本中心的标签，使企业可以更轻松地了解和控制其数据。对象标记通过添加现有治理功能（例如 Snowflake 的&lt;a href=&quot;https://docs.snowflake.com/en/user-guide/security-column-ddm.html&quot;&gt;动态数据屏蔽&lt;/a&gt;和&lt;a href=&quot;https://www.snowflake.com/blog/row-access-policies-are-now-generally-available-on-snowflake/&quot;&gt;行访问策略）&lt;/a&gt;来扩展 Snowflake 的本机数据治理功能。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="大数据" scheme="http://pmthought.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+    <category term="Snowflake" scheme="http://pmthought.com/tags/Snowflake/"/>
+    
+    <category term="标签" scheme="http://pmthought.com/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+    <category term="数据资产管理" scheme="http://pmthought.com/tags/%E6%95%B0%E6%8D%AE%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有效的管理邮件</title>
+    <link href="http://pmthought.com/effectively-mail.html"/>
+    <id>http://pmthought.com/effectively-mail.html</id>
+    <published>2017-04-06T10:01:36.000Z</published>
+    <updated>2021-09-24T08:06:42.805Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;邮件，作为工作中很重要的东西。工作多年，有自己使用的一些方法和技巧。最近也参加了一个知乎关于邮件处理的live，总结下关于邮件处理的应该注意的一些心得和技巧，合理的利用这些在短期内提高管理电子邮件的效率。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="观点感悟" scheme="http://pmthought.com/categories/%E8%A7%82%E7%82%B9%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="邮件" scheme="http://pmthought.com/tags/%E9%82%AE%E4%BB%B6/"/>
+    
+    <category term="管理" scheme="http://pmthought.com/tags/%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里开发手册摘要</title>
+    <link href="http://pmthought.com/ali-dev-manual.html"/>
+    <id>http://pmthought.com/ali-dev-manual.html</id>
+    <published>2017-03-10T09:26:15.000Z</published>
+    <updated>2021-09-24T08:09:17.387Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;阿里作为全世界Java开发规模最大和应用水平最高的地方之一，三十几页的规范，从编程、异常日志、SQL、工程、安全五块形成的规约总结，根据约束力，分强制、推荐、参考三大类，可以作为优秀技术团队的重要利器。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="阿里" scheme="http://pmthought.com/tags/%E9%98%BF%E9%87%8C/"/>
+    
+    <category term="java" scheme="http://pmthought.com/tags/java/"/>
+    
+    <category term="规范" scheme="http://pmthought.com/tags/%E8%A7%84%E8%8C%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx的五种负载均衡策略</title>
+    <link href="http://pmthought.com/nginx-load-balancing.html"/>
+    <id>http://pmthought.com/nginx-load-balancing.html</id>
+    <published>2017-01-03T03:50:25.000Z</published>
+    <updated>2021-09-24T07:47:18.901Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;nginx可以按照调度规则实现动态、静态页面的分离，也可以按照轮询、ip哈希、URL哈希、权重等多种方式对后端服务器做负载均衡，同时还支持后端服务器的健康检查。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="nginx" scheme="http://pmthought.com/tags/nginx/"/>
+    
+    <category term="负载均衡" scheme="http://pmthought.com/tags/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/"/>
+    
+  </entry>
+  
+</feed>
