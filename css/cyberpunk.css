@@ -1513,7 +1513,7 @@ a.has-text-grey-lightest:focus {
 }
 .card {
   background-color: transparent;
-  box-shadow: none, 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: none;
   color: #cdcdcd;
   max-width: 100%;
   position: relative;
@@ -11018,7 +11018,7 @@ footer.footer .level-end .field {
 .pagination .pagination-next {
   border: none;
   background: #000;
-  box-shadow: none, 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: none;
 }
 .pagination .pagination-link.is-current {
   background: #02d7f2;
@@ -11102,7 +11102,7 @@ footer.footer .level-end .field {
   z-index: 101;
   display: flex;
   overflow: hidden;
-  box-shadow: none, 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: none;
   border-radius: 0;
   background-color: #050a0e;
   width: 540px;
@@ -11217,7 +11217,7 @@ footer.footer .level-end .field {
 .searchbox .searchbox-pagination .searchbox-pagination-link {
   overflow: hidden;
   padding: 0.5em 0.8em;
-  box-shadow: none, 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: none;
   border-radius: 0;
   background-color: #050a0e;
 }
@@ -11414,7 +11414,7 @@ figure.highlight .section {
   bottom: 2.5em;
   line-height: 0;
   overflow: hidden;
-  box-shadow: none, 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: none;
   border-radius: 0;
 }
 .donate .qrcode img {
@@ -11597,7 +11597,7 @@ figure.highlight .section {
 }
 .cc-window.cc-floating {
   border-radius: 0;
-  box-shadow: none, 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: none;
 }
 .cc-window.cc-banner {
   background-color: #000 !important;

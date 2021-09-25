@@ -113,7 +113,7 @@
     <link href="http://pmthought.com/ali-dev-manual.html"/>
     <id>http://pmthought.com/ali-dev-manual.html</id>
     <published>2017-03-10T09:26:15.000Z</published>
-    <updated>2021-09-24T08:09:17.387Z</updated>
+    <updated>2021-09-25T09:12:07.928Z</updated>
     
     
     <summary type="html">&lt;p&gt;阿里作为全世界Java开发规模最大和应用水平最高的地方之一，三十几页的规范，从编程、异常日志、SQL、工程、安全五块形成的规约总结，根据约束力，分强制、推荐、参考三大类，可以作为优秀技术团队的重要利器。&lt;/p&gt;</summary>
@@ -136,10 +136,10 @@
     <link href="http://pmthought.com/nginx-load-balancing.html"/>
     <id>http://pmthought.com/nginx-load-balancing.html</id>
     <published>2017-01-03T03:50:25.000Z</published>
-    <updated>2021-09-24T07:47:18.901Z</updated>
+    <updated>2021-09-25T09:15:08.761Z</updated>
     
     
-    <summary type="html">&lt;p&gt;nginx可以按照调度规则实现动态、静态页面的分离，也可以按照轮询、ip哈希、URL哈希、权重等多种方式对后端服务器做负载均衡，同时还支持后端服务器的健康检查。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Nginx可以按照调度规则实现动态、静态页面的分离，也可以按照轮询、ip哈希、URL哈希、权重等多种方式对后端服务器做负载均衡，同时还支持后端服务器的健康检查。&lt;/p&gt;</summary>
     
     
     
