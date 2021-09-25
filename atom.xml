@@ -65,7 +65,7 @@
     <link href="http://pmthought.com/mpp-batch.html"/>
     <id>http://pmthought.com/mpp-batch.html</id>
     <published>2021-05-01T10:01:36.000Z</published>
-    <updated>2021-09-24T14:57:34.824Z</updated>
+    <updated>2021-09-25T12:48:58.965Z</updated>
     
     
     <summary type="html">&lt;p&gt;在最早数据分析时代，我们用单机数据库系统来解决数据存储和分析需求，当数据量逐渐增加，就需要在架构上扩容，很自然首先就是通过增加计算资源(CPU、Memory)来提高分析性能，这就是常说的&lt;strong&gt;纵向扩展&lt;/strong&gt;。&lt;/p&gt;</summary>
@@ -84,6 +84,33 @@
     <category term="MPP" scheme="http://pmthought.com/tags/MPP/"/>
     
     <category term="Hadoop" scheme="http://pmthought.com/tags/Hadoop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>构建大数据平台监控体系</title>
+    <link href="http://pmthought.com/ali-dev-manual.html"/>
+    <id>http://pmthought.com/ali-dev-manual.html</id>
+    <published>2018-03-10T05:26:15.000Z</published>
+    <updated>2021-09-25T14:10:41.307Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;1-监控体系概述&quot;&gt;&lt;a href=&quot;#1-监控体系概述&quot; class=&quot;headerlink&quot; title=&quot;1. 监控体系概述&quot;&gt;&lt;/a&gt;1. 监控体系概述&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;监控体系是平台的后盾，系统异常可能造成巨大的损失，有后盾才能放心冲锋，完善监控是运维人的重要工作之一。&lt;/li&gt;
+&lt;li&gt;监控系统建设应该以结果为导向，告警宜准不宜多；提供告警分析辅助工具，减少定位时间；监而不控，等于没有监控。&lt;/li&gt;
+&lt;li&gt;监控不仅是维稳，还应该引导提升业务体验，性能监控对持续引导优化业务体验十分重要，要找准核心指标，并提供辅助指标，核心指标要切中要害，覆盖面要广。&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="阿里" scheme="http://pmthought.com/tags/%E9%98%BF%E9%87%8C/"/>
+    
+    <category term="java" scheme="http://pmthought.com/tags/java/"/>
+    
+    <category term="规范" scheme="http://pmthought.com/tags/%E8%A7%84%E8%8C%83/"/>
     
   </entry>
   
@@ -113,7 +140,7 @@
     <link href="http://pmthought.com/ali-dev-manual.html"/>
     <id>http://pmthought.com/ali-dev-manual.html</id>
     <published>2017-03-10T09:26:15.000Z</published>
-    <updated>2021-09-25T09:12:07.928Z</updated>
+    <updated>2021-09-25T14:08:16.579Z</updated>
     
     
     <summary type="html">&lt;p&gt;阿里作为全世界Java开发规模最大和应用水平最高的地方之一，三十几页的规范，从编程、异常日志、SQL、工程、安全五块形成的规约总结，根据约束力，分强制、推荐、参考三大类，可以作为优秀技术团队的重要利器。&lt;/p&gt;</summary>
