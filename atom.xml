@@ -6,7 +6,7 @@
   <link href="http://pmthought.com/atom.xml" rel="self"/>
   
   <link href="http://pmthought.com/"/>
-  <updated>2021-09-24T09:41:32.680Z</updated>
+  <updated>2021-09-24T13:34:16.581Z</updated>
   <id>http://pmthought.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://pmthought.com/snowflake-object-tagging.html"/>
     <id>http://pmthought.com/snowflake-object-tagging.html</id>
     <published>2021-09-24T10:01:36.000Z</published>
-    <updated>2021-09-24T09:41:32.680Z</updated>
+    <updated>2021-09-24T13:34:16.581Z</updated>
     
     
     <summary type="html">&lt;p&gt;今年 8 月份，Snowflake对外发布了对象标签功能的预览版，此功能通过应用业务上下文，例如将数据对象标识为敏感、PII 或属于成本中心的标签，使企业可以更轻松地了解和控制其数据。对象标记通过添加现有治理功能（例如 Snowflake 的&lt;a href=&quot;https://docs.snowflake.com/en/user-guide/security-column-ddm.html&quot;&gt;动态数据屏蔽&lt;/a&gt;和&lt;a href=&quot;https://www.snowflake.com/blog/row-access-policies-are-now-generally-available-on-snowflake/&quot;&gt;行访问策略）&lt;/a&gt;来扩展 Snowflake 的本机数据治理功能。&lt;/p&gt;</summary>
@@ -61,11 +61,38 @@
   </entry>
   
   <entry>
+    <title>MPP架构和Batch架构</title>
+    <link href="http://pmthought.com/mpp-batch.html"/>
+    <id>http://pmthought.com/mpp-batch.html</id>
+    <published>2021-05-01T10:01:36.000Z</published>
+    <updated>2021-09-24T14:57:34.824Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在最早数据分析时代，我们用单机数据库系统来解决数据存储和分析需求，当数据量逐渐增加，就需要在架构上扩容，很自然首先就是通过增加计算资源(CPU、Memory)来提高分析性能，这就是常说的&lt;strong&gt;纵向扩展&lt;/strong&gt;。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="大数据" scheme="http://pmthought.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+    <category term="大数据" scheme="http://pmthought.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    <category term="计算机" scheme="http://pmthought.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="数据库" scheme="http://pmthought.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="MPP" scheme="http://pmthought.com/tags/MPP/"/>
+    
+    <category term="Hadoop" scheme="http://pmthought.com/tags/Hadoop/"/>
+    
+  </entry>
+  
+  <entry>
     <title>有效的管理邮件</title>
     <link href="http://pmthought.com/effectively-mail.html"/>
     <id>http://pmthought.com/effectively-mail.html</id>
     <published>2017-04-06T10:01:36.000Z</published>
-    <updated>2021-09-24T08:06:42.805Z</updated>
+    <updated>2021-09-24T13:26:09.077Z</updated>
     
     
     <summary type="html">&lt;p&gt;邮件，作为工作中很重要的东西。工作多年，有自己使用的一些方法和技巧。最近也参加了一个知乎关于邮件处理的live，总结下关于邮件处理的应该注意的一些心得和技巧，合理的利用这些在短期内提高管理电子邮件的效率。&lt;/p&gt;</summary>
