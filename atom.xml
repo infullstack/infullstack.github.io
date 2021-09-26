@@ -92,25 +92,23 @@
     <link href="http://pmthought.com/bigdata-monitor.html"/>
     <id>http://pmthought.com/bigdata-monitor.html</id>
     <published>2018-03-10T05:26:15.000Z</published>
-    <updated>2021-09-26T00:52:06.683Z</updated>
+    <updated>2021-09-26T00:53:46.590Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;1-监控体系概述&quot;&gt;&lt;a href=&quot;#1-监控体系概述&quot; class=&quot;headerlink&quot; title=&quot;1. 监控体系概述&quot;&gt;&lt;/a&gt;1. 监控体系概述&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;监控体系是平台的后盾，系统异常可能造成巨大的损失，有后盾才能放心冲锋，完善监控是运维人的重要工作之一。&lt;/li&gt;
-&lt;li&gt;监控系统建设应该以结果为导向，告警宜准不宜多；提供告警分析辅助工具，减少定位时间；监而不控，等于没有监控。&lt;/li&gt;
-&lt;li&gt;监控不仅是维稳，还应该引导提升业务体验，性能监控对持续引导优化业务体验十分重要，要找准核心指标，并提供辅助指标，核心指标要切中要害，覆盖面要广。&lt;/li&gt;
-&lt;/ul&gt;</summary>
+    <summary type="html">&lt;p&gt;监控是整个运维乃至整个产品生命周期中最重要的一环，事前及时预警发现故障，事后提供详实的数据用于追查定位问题。&lt;/p&gt;</summary>
     
     
     
-    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    <category term="大数据" scheme="http://pmthought.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-    <category term="阿里" scheme="http://pmthought.com/tags/%E9%98%BF%E9%87%8C/"/>
+    <category term="大数据" scheme="http://pmthought.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
-    <category term="java" scheme="http://pmthought.com/tags/java/"/>
+    <category term="监控" scheme="http://pmthought.com/tags/%E7%9B%91%E6%8E%A7/"/>
     
-    <category term="规范" scheme="http://pmthought.com/tags/%E8%A7%84%E8%8C%83/"/>
+    <category term="运维" scheme="http://pmthought.com/tags/%E8%BF%90%E7%BB%B4/"/>
+    
+    <category term="告警" scheme="http://pmthought.com/tags/%E5%91%8A%E8%AD%A6/"/>
     
   </entry>
   
