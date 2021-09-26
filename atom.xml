@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>产品随想</title>
+  <title>产品闲思录·Product Thought</title>
   <icon>http://pmthought.com/icon.png</icon>
-  <subtitle>产品随想</subtitle>
+  <subtitle>产品闲思录·Product Thought</subtitle>
   <link href="http://pmthought.com/atom.xml" rel="self"/>
   
   <link href="http://pmthought.com/"/>
@@ -92,7 +92,7 @@
     <link href="http://pmthought.com/bigdata-monitor.html"/>
     <id>http://pmthought.com/bigdata-monitor.html</id>
     <published>2018-03-10T05:26:15.000Z</published>
-    <updated>2021-09-26T00:53:46.590Z</updated>
+    <updated>2021-09-26T01:45:32.223Z</updated>
     
     
     <summary type="html">&lt;p&gt;监控是整个运维乃至整个产品生命周期中最重要的一环，事前及时预警发现故障，事后提供详实的数据用于追查定位问题。&lt;/p&gt;</summary>
