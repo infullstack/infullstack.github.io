@@ -88,6 +88,31 @@
   </entry>
   
   <entry>
+    <title>kylin智能构建工具</title>
+    <link href="http://pmthought.com/kylin-cube-build-tools"/>
+    <id>http://pmthought.com/kylin-cube-build-tools</id>
+    <published>2018-09-06T02:32:25.000Z</published>
+    <updated>2020-03-05T03:19:12.869Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Kylin作为OLAP on Hadoop的标准，查询和构建作为Kylin的两个主要功能，可以通过Kylin的界面或者调用Kylin的RestApi、odbc和Jdbc等方式查询，构建也可以通过Kylin界面或者RestApi进行调用，但构建也会有不同类型的任务，也会遇到一些异常，如：segment overlap、构建异常或构建任务已经在执行。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="kylin" scheme="http://pmthought.com/tags/kylin/"/>
+    
+    <category term="构建工具" scheme="http://pmthought.com/tags/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="cube" scheme="http://pmthought.com/tags/cube/"/>
+    
+    <category term="多维" scheme="http://pmthought.com/tags/%E5%A4%9A%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
     <title>大数据平台监控体系</title>
     <link href="http://pmthought.com/bigdata-monitor.html"/>
     <id>http://pmthought.com/bigdata-monitor.html</id>
@@ -109,6 +134,106 @@
     <category term="运维" scheme="http://pmthought.com/tags/%E8%BF%90%E7%BB%B4/"/>
     
     <category term="告警" scheme="http://pmthought.com/tags/%E5%91%8A%E8%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ycsb使用指南</title>
+    <link href="http://pmthought.com/ycsb%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
+    <id>http://pmthought.com/ycsb%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
+    <published>2018-01-17T12:04:23.000Z</published>
+    <updated>2021-09-26T09:15:33.823Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;YCSB（Yahoo! Cloud Serving Benchmark）是雅虎开源的一款通用的性能测试工具。&lt;br&gt;通过这个工具我们可以对各类NoSQL产品进行相关的性能测试，包括：PNUTS、BigTable 、HBase、Hypertable、Azure、Cassandra、CouchDB、Voldemort、MongoDb、Dynomite。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="性能" scheme="http://pmthought.com/tags/%E6%80%A7%E8%83%BD/"/>
+    
+    <category term="hbase" scheme="http://pmthought.com/tags/hbase/"/>
+    
+    <category term="ycsb" scheme="http://pmthought.com/tags/ycsb/"/>
+    
+    <category term="测试" scheme="http://pmthought.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kerberos定时登录设置</title>
+    <link href="http://pmthought.com/kerberos%E5%AE%9A%E6%97%B6%E7%99%BB%E5%BD%95%E8%AE%BE%E7%BD%AE.html"/>
+    <id>http://pmthought.com/kerberos%E5%AE%9A%E6%97%B6%E7%99%BB%E5%BD%95%E8%AE%BE%E7%BD%AE.html</id>
+    <published>2018-01-16T13:53:25.000Z</published>
+    <updated>2020-03-05T03:26:12.682Z</updated>
+    
+    
+    <summary type="html">&lt;h5 id=&quot;1-增加Crontab定时任务&quot;&gt;&lt;a href=&quot;#1-增加Crontab定时任务&quot; class=&quot;headerlink&quot; title=&quot;1. 增加Crontab定时任务&quot;&gt;&lt;/a&gt;1. 增加Crontab定时任务&lt;/h5&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="linux" scheme="http://pmthought.com/tags/linux/"/>
+    
+    <category term="kerberos" scheme="http://pmthought.com/tags/kerberos/"/>
+    
+    <category term="crontab" scheme="http://pmthought.com/tags/crontab/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据技术文章索引</title>
+    <link href="http://pmthought.com/bigdata-tech-post-index"/>
+    <id>http://pmthought.com/bigdata-tech-post-index</id>
+    <published>2017-07-05T09:00:44.000Z</published>
+    <updated>2021-09-26T09:06:03.755Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;存储格式&quot;&gt;&lt;a href=&quot;#存储格式&quot; class=&quot;headerlink&quot; title=&quot;存储格式&quot;&gt;&lt;/a&gt;存储格式&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/articles/in-depth-analysis-of-parquet-column-storage-format&quot;&gt;深入分析Parquet列式存储格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dongxicheng.org/mapreduce-nextgen/columnar-storage-parquet-and-orc/&quot;&gt;大数据开源列式存储引擎Parquet和ORC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.iteblog.com/archives/1014.html&quot;&gt;Hive:ORC File Format存储格式详解&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="大数据" scheme="http://pmthought.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    <category term="hadoop" scheme="http://pmthought.com/tags/hadoop/"/>
+    
+    <category term="parquet" scheme="http://pmthought.com/tags/parquet/"/>
+    
+    <category term="hdfs" scheme="http://pmthought.com/tags/hdfs/"/>
+    
+    <category term="spark" scheme="http://pmthought.com/tags/spark/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shell逐行读取文本的几种方法</title>
+    <link href="http://pmthought.com/shell-row"/>
+    <id>http://pmthought.com/shell-row</id>
+    <published>2017-05-22T05:10:34.000Z</published>
+    <updated>2021-09-26T09:15:21.891Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;经常会对文体文件进行逐行处理，在Shell里面如何获取每行数据，然后处理该行数据，最后读取下一行数据，循环处理．有多种解决方法如下：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="shell" scheme="http://pmthought.com/tags/shell/"/>
+    
+    <category term="逐行" scheme="http://pmthought.com/tags/%E9%80%90%E8%A1%8C/"/>
     
   </entry>
   
@@ -148,11 +273,34 @@
     <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="阿里" scheme="http://pmthought.com/tags/%E9%98%BF%E9%87%8C/"/>
-    
     <category term="java" scheme="http://pmthought.com/tags/java/"/>
     
+    <category term="阿里" scheme="http://pmthought.com/tags/%E9%98%BF%E9%87%8C/"/>
+    
     <category term="规范" scheme="http://pmthought.com/tags/%E8%A7%84%E8%8C%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shell通用日志函数</title>
+    <link href="http://pmthought.com/shell-log-function"/>
+    <id>http://pmthought.com/shell-log-function</id>
+    <published>2017-01-11T03:46:14.000Z</published>
+    <updated>2020-03-05T03:26:24.140Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;为了方便调试，写了一个通用的日志函数，实现功能：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="shell" scheme="http://pmthought.com/tags/shell/"/>
+    
+    <category term="日志" scheme="http://pmthought.com/tags/%E6%97%A5%E5%BF%97/"/>
+    
+    <category term="log" scheme="http://pmthought.com/tags/log/"/>
     
   </entry>
   
@@ -174,6 +322,147 @@
     <category term="nginx" scheme="http://pmthought.com/tags/nginx/"/>
     
     <category term="负载均衡" scheme="http://pmthought.com/tags/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实现shell并发</title>
+    <link href="http://pmthought.com/shell-concruent"/>
+    <id>http://pmthought.com/shell-concruent</id>
+    <published>2016-12-09T09:42:45.000Z</published>
+    <updated>2020-03-05T03:16:15.885Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;经常在工作中遇到执行的脚本需要并发执行，提高效率。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="shell" scheme="http://pmthought.com/tags/shell/"/>
+    
+    <category term="并发" scheme="http://pmthought.com/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux配置supervisor管理进程</title>
+    <link href="http://pmthought.com/linux-supervisor"/>
+    <id>http://pmthought.com/linux-supervisor</id>
+    <published>2016-12-09T03:15:19.000Z</published>
+    <updated>2020-03-05T03:19:32.900Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Supervisor是由python语言编写，基于linux操作系统的一款服务器管理工具，&lt;br&gt;用以监控服务器的运行，发现问题能立即自动预警及自动重启等功能。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="linux" scheme="http://pmthought.com/tags/linux/"/>
+    
+    <category term="supervisor" scheme="http://pmthought.com/tags/supervisor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>收集jmap和jstack信息</title>
+    <link href="http://pmthought.com/collect-jmap-jstack"/>
+    <id>http://pmthought.com/collect-jmap-jstack</id>
+    <published>2016-12-05T11:15:41.000Z</published>
+    <updated>2020-03-05T03:26:48.397Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;收集jmap和jstack信息的方法&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="http://pmthought.com/tags/java/"/>
+    
+    <category term="jmap" scheme="http://pmthought.com/tags/jmap/"/>
+    
+    <category term="jstack" scheme="http://pmthought.com/tags/jstack/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用的linux命令</title>
+    <link href="http://pmthought.com/linux-command"/>
+    <id>http://pmthought.com/linux-command</id>
+    <published>2016-01-03T04:48:20.000Z</published>
+    <updated>2021-09-26T09:05:22.193Z</updated>
+    
+    
+    <summary type="html">&lt;h4 id=&quot;Linux-kill多个进程&quot;&gt;&lt;a href=&quot;#Linux-kill多个进程&quot; class=&quot;headerlink&quot; title=&quot;Linux kill多个进程&quot;&gt;&lt;/a&gt;Linux kill多个进程&lt;/h4&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;ps -ef|grep ycsb|grep -v grep|cut -c 9-15|xargs kill -9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="linux" scheme="http://pmthought.com/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一首英文歌</title>
+    <link href="http://pmthought.com/a-english-song"/>
+    <id>http://pmthought.com/a-english-song</id>
+    <published>2015-11-02T08:30:11.000Z</published>
+    <updated>2020-03-05T03:15:55.130Z</updated>
+    
+    
+    <summary type="html">&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hiding from the rain and snow &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;trying to forget but I won&amp;#x27;t let go &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;looking at a crowded street &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;listening to my own heart beat &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;so many people all around the world &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;.....&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="观点感悟" scheme="http://pmthought.com/categories/%E8%A7%82%E7%82%B9%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="歌" scheme="http://pmthought.com/tags/%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mapreduce 性能优化</title>
+    <link href="http://pmthought.com/Mapreduce%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.html"/>
+    <id>http://pmthought.com/Mapreduce%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.html</id>
+    <published>2015-04-29T14:25:49.000Z</published>
+    <updated>2021-09-26T09:14:59.038Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;基本&quot;&gt;&lt;a href=&quot;#基本&quot; class=&quot;headerlink&quot; title=&quot;基本&quot;&gt;&lt;/a&gt;基本&lt;/h2&gt;</summary>
+    
+    
+    
+    
+    <category term="mapreduce" scheme="http://pmthought.com/tags/mapreduce/"/>
+    
+    <category term="优化" scheme="http://pmthought.com/tags/%E4%BC%98%E5%8C%96/"/>
+    
+    <category term="性能" scheme="http://pmthought.com/tags/%E6%80%A7%E8%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux磁盘批量分区和挂载</title>
+    <link href="http://pmthought.com/linux-disk"/>
+    <id>http://pmthought.com/linux-disk</id>
+    <published>2014-12-01T05:44:13.000Z</published>
+    <updated>2020-03-05T03:27:16.121Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Linux磁盘批量分区和挂载&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技术" scheme="http://pmthought.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
+    
     
   </entry>
   
