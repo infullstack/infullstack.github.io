@@ -65,7 +65,7 @@
     <link href="http://pmthought.com/mpp-batch.html"/>
     <id>http://pmthought.com/mpp-batch.html</id>
     <published>2021-05-01T10:01:36.000Z</published>
-    <updated>2021-09-25T12:48:58.965Z</updated>
+    <updated>2021-09-27T05:30:33.014Z</updated>
     
     
     <summary type="html">&lt;p&gt;在最早数据分析时代，我们用单机数据库系统来解决数据存储和分析需求，当数据量逐渐增加，就需要在架构上扩容，很自然首先就是通过增加计算资源(CPU、Memory)来提高分析性能，这就是常说的&lt;strong&gt;纵向扩展&lt;/strong&gt;。&lt;/p&gt;</summary>
