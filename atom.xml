@@ -6,7 +6,7 @@
   <link href="http://pmthought.com/atom.xml" rel="self"/>
   
   <link href="http://pmthought.com/"/>
-  <updated>2021-09-25T06:16:01.752Z</updated>
+  <updated>2021-10-22T01:56:56.711Z</updated>
   <id>http://pmthought.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Pixar电影的故事公式</title>
+    <link href="http://pmthought.com/pixar-story.html"/>
+    <id>http://pmthought.com/pixar-story.html</id>
+    <published>2021-10-22T01:26:15.000Z</published>
+    <updated>2021-10-22T01:56:56.711Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;文章翻译自：&lt;a href=&quot;https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars&quot;&gt;https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;作为创业公司的创始人，你-90-的工作都是讲故事。&quot;&gt;&lt;a href=&quot;#作为创业公司的创始人，你-90-的工作都是讲故事。&quot; class=&quot;headerlink&quot; title=&quot;作为创业公司的创始人，你 90% 的工作都是讲故事。&quot;&gt;&lt;/a&gt;&lt;strong&gt;作为创业公司的创始人，你 90% 的工作都是讲故事。&lt;/strong&gt;&lt;/h2&gt;&lt;/blockquote&gt;
+&lt;p&gt;您一直在讲述公司的故事&lt;em&gt;：&lt;/em&gt;筹款、招募联合创始人或员工、向用户营销、团结团队、与媒体交谈以及与董事会沟通时。所有这些人都在&lt;em&gt;乞求&lt;/em&gt;听到一个好故事，一个能激励和推动他们采取行动的故事。 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但我们大多数人从未学会如何讲好故事！&lt;/strong&gt;这是创始人可以培养的最高杠杆技能，并且可以提升工作的各个方面。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="产品" scheme="http://pmthought.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+    <category term="故事" scheme="http://pmthought.com/tags/%E6%95%85%E4%BA%8B/"/>
+    
+    <category term="产品" scheme="http://pmthought.com/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
   
   <entry>
     <title>Snowflake的标签功能</title>
@@ -255,33 +280,6 @@
     <category term="邮件" scheme="http://pmthought.com/tags/%E9%82%AE%E4%BB%B6/"/>
     
     <category term="管理" scheme="http://pmthought.com/tags/%E7%AE%A1%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Pixar电影的故事公式</title>
-    <link href="http://pmthought.com/pixar-story.html"/>
-    <id>http://pmthought.com/pixar-story.html</id>
-    <published>2017-03-10T09:26:15.000Z</published>
-    <updated>2021-10-22T01:46:24.582Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;文章翻译自：&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="产品" scheme="http://pmthought.com/categories/%E4%BA%A7%E5%93%81/"/>
-    
-    
-    <category term="故事" scheme="http://pmthought.com/tags/%E6%95%85%E4%BA%8B/"/>
-    
-    <category term="产品" scheme="http://pmthought.com/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
